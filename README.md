@@ -1,1 +1,1 @@
-# wara-t0
+# wara-t0 kql queries for the various resources
